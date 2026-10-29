@@ -56,6 +56,8 @@ See here for details: https://github.com/rust-lang/this-week-in-rust/issues/8575
 
 ### Miscellaneous
 
+* [Qt Bridges Technology Preview: Qt Quick UIs for Rust and C# Developers](https://www.qt.io/blog/qt-bridges-technology-preview-rust-csharp)
+
 ## Crate of the Week
 
 <!-- COTW goes here -->
